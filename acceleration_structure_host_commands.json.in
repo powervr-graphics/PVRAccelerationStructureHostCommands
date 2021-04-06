@@ -1,0 +1,11 @@
+{
+    "file_format_version" : "1.1.0",
+    "layer" : {
+        "name": "${LAYER_NAME}",
+        "type": "GLOBAL",
+        "library_path": "${LAYER_PATH}",
+        "api_version": "${VK_VERSION_STRING}",
+        "implementation_version": "1.0.0",
+        "description": "Emulates the accelerationStructureHostCommands feature on devices that support the VK_KHR_acceleration_structure extension"
+    }
+}

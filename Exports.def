@@ -1,0 +1,6 @@
+EXPORTS
+vkGetInstanceProcAddr
+vkGetDeviceProcAddr
+vkCreateInstance
+vkCreateDevice
+vkNegotiateLoaderLayerInterfaceVersion
